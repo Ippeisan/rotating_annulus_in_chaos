@@ -1,0 +1,4 @@
+SOURCE = \
+rotatingconvectionFoam.C \
+
+# sources
